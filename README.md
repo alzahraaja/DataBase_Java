@@ -6,8 +6,6 @@ Tugas pemrograman ( OOP ) Java dengan integrasi basis data (database)
 
 Proyek ini dibuat untuk mendemonstrasikan implementasi CRUD (Create, Read, Update, Delete) operations pada aplikasi Java desktop. Menggunakan:
 
-program yang dibuat dengan operasi CRUD (Create, Read, Update, Delete) dan bahasa pwemrograman yang digunakan ialah Java dan database Mysql sebagai sistem manajmen datanya.
-
 
 ## Prasyarat
 
